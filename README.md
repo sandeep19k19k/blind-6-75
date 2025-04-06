@@ -31,3 +31,5 @@ update result at each index.
 then update extreme_negative.
 
 now equate extreme_positive to temp_extrem_positive.( bcoz updation of extreme_positve wouldn't have been possible ,bcoz extreme_negative changed in previous step).
+Time complexity: O(n)
+Space complexity : O(1)
